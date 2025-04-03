@@ -24,15 +24,6 @@ The database is named `employee_db.sqlite`, and it contains the `employee` table
 | salary   | REAL   | NOT NULL    |
 | hire_date| TEXT   | NOT NULL    |
 
-## Project Structure
-```
-Employee-Management/
-│── employee.py         # Employee entity class
-│── employee_dao.py     # EmployeeDAO class (handles database operations)
-│── main.py             # Testing the CRUD operations
-│── employee_db.sqlite  # SQLite database file
-│── README.md           # Project documentation
-```
 
 ## How to Run the Project
 1. **Clone the Repository**:
