@@ -89,9 +89,7 @@ Employee updated successfully.
 Employee deleted successfully.
 ```
 
-## Screenshots
-(Screenshots of your table and test outputs should be added here)
 
-## License
-This project is open-source and available under the MIT License.
+
+
 
